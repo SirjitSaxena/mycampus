@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Schooly	</title>
-	<atom:link href="http://sirjitsaxena.github.io/mycampus/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sirjitsaxena.github.io/mycampus</link>
+	<atom:link href="/sirjitsaxena.github.io/mycampus/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/sirjitsaxena.github.io/mycampus</link>
 	<description>Future Ahead</description>
 	<lastBuildDate>Sun, 06 Mar 2022 12:23:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://sirjitsaxena.github.io/mycampus/hello-world/#comment-1</link>
+		<link>/sirjitsaxena.github.io/mycampus/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 06 Mar 2022 12:23:11 +0000</pubDate>
-		<guid isPermaLink="false">http://sirjitsaxena.github.io/mycampus/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/sirjitsaxena.github.io/mycampus/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
